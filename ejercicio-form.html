@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Ejercicio del formulario</title>
+        <link type="text/css" rel="stylesheet" href="estilo-ejer.css"/>
+    </head>
+    <body>
+        <h1>Este es el primer formuladio</h1>
+        <div class="contenedor">
+            <form>
+                <p>Bienvenido, por favor, ingresa tus datos</p>
+                <label>Nombre: </label>
+                <input type="text" />
+                <br><label>Correo: </label>
+                <input type="email" /><br>
+                <label>Ingresa tu género: </label><br>
+                <input type="radio" id="hombre" name="gender" value="Hombre"/>
+                <label for="hombre">Hombre</label><br>
+                <input type="radio" value="Mujer" name="gender" id="mujer"/>
+                <label for="mujer">Mujer</label><br>
+                <input type="radio" value="No binario" name="gender" id="no_bin"/>
+                <label for="no_bin">No binario</label><br>
+                <label>Ingresa tu edad: </label>
+                <input type="number" min="18" max="29"><br><br>
+                <input type="submit" value="Enviar">
+            </form>
+        </div>
+    </body>
+</html>

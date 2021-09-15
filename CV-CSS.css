@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+p{
+    background-color: rgba(0,0, 0, 0.2);
+}
+h2{
+    color: red;
+    background-color: rgba(0,0, 0, 0.5);
+}
+u{
+    color:blue;
+}
+.verde{
+    color: green;
+    text-decoration: none;
+}
+div{
+    background-color: rgba(0,0, 0, 0.2);
+}
+.especial{
+    background-color: white;
+}
+h3{
+    color: purple;
+    background-color: rgba(0,0, 0, 0.3);
+}

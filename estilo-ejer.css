@@ -1,0 +1,15 @@
+div{
+    border: 2px black; 
+    background-color: cornflowerblue;
+    border: 2px dashed black;
+}
+form{
+    text-align: center;
+}
+label{
+    font-size: 24px;
+}
+#hombre,#mujer,#no_bin{
+    float: left;
+    margin-left: 0;
+}

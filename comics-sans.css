@@ -1,0 +1,31 @@
+*{
+    background-color: lightblue;
+}
+.naran{
+    color: orange;
+}
+.verd{
+    background-color: white;
+    color: green;
+}
+.suabe{
+    text-decoration: none;
+    color: orange;
+}
+h1{
+    float: right;
+    font-family:'Courier New', Courier, monospace;
+}
+u{
+    text-decoration: none;
+    color: red;
+}
+span{
+    font-size: 46px;
+}
+p{
+    text-indent: 50px;
+}
+h6{
+    text-align: center;
+}
